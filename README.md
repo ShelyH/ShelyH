@@ -25,5 +25,3 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/saching13/saching13/output/github-contribution-grid-snake.svg)
